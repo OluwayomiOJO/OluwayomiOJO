@@ -22,3 +22,6 @@ Summary of My Tech Skills
 
 ![image](https://github.com/user-attachments/assets/24b0227e-3096-4e8f-b209-fc7f99fc68bc)![image](https://github.com/user-attachments/assets/7ac78ef5-b89f-48a3-a82a-42f986166f73)![image](https://github.com/user-attachments/assets/8f239c1f-172c-4d07-b0b9-83e508c229f2)![image](https://github.com/user-attachments/assets/4697677a-4594-47ff-966d-605a0e94d1ba)![image](https://github.com/user-attachments/assets/4bc3509a-8b78-4966-ba64-e5bc4324bd05)![image](https://github.com/user-attachments/assets/432127cf-055e-4a7e-bbe8-53bcdba75ce4)![image](https://github.com/user-attachments/assets/f8f7766f-5640-47b8-9135-bcd854e947bd)![image](https://github.com/user-attachments/assets/0b53ae36-6a24-423d-8e7c-a3e79179cc7d)![image](https://github.com/user-attachments/assets/99990d0f-975c-4460-9a7e-435610860b35)![image](https://github.com/user-attachments/assets/9bb30826-1e15-4a37-a7fb-99d322b06063)![image](https://github.com/user-attachments/assets/689caa06-a0b1-4a7c-a37b-ec7f9de76fb5)![image](https://github.com/user-attachments/assets/eeee912c-a2b0-4f68-9a0d-79821c5fd6d3)![image](https://github.com/user-attachments/assets/c3530db6-335d-49da-8d11-bc4a49a0623b)
 
+Contact me
+
+oluwayomioojo@gmail.com 
