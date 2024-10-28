@@ -15,8 +15,8 @@ and cloud computing. I am also working on relevant certifications on them.
 I attended the following educational institutions 
 
 
-I studied Masters in Software Technologies at The Robert Gordon University, United kingdom and graduated with a distinction, 
-Post graduate diploma in Data analysis/ Artificial intelligence at the Saskatchewan Polytechnic, Regina, Canada 
+I have Masters in Software Technologies from The Robert Gordon University, United kingdom and graduated with a distinction, 
+Post graduate diploma in Data analysis/ Artificial intelligence from the Saskatchewan Polytechnic, Regina, Canada 
 
 
 
