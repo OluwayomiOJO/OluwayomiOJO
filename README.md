@@ -7,6 +7,8 @@
 
 I am an experienced full stack developer with start-up background. I combine react, JQuery , and JavaScript at the frontend with PHP , node.Js , Laravel Framework. 
 Currently working on an online assessment application that could be used for Online assessments of candidates, similar to online drivers' license test and “who wants to be a millionaire” application. Just anything that requires knowledge testing online (timed and untimed)
+
+
 I also have an average and academic knowledge of data analysis and artificial intelligence
 Currently learning AWS  ![image](https://github.com/user-attachments/assets/19ccdd28-f39c-4771-860b-79a4eaa0b134)
 and cloud computing. I am also working on relevant certifications on them. 
