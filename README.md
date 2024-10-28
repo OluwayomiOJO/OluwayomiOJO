@@ -13,7 +13,9 @@ I also have an average and academic knowledge of data analysis and artificial in
 Currently learning AWS  ![image](https://github.com/user-attachments/assets/19ccdd28-f39c-4771-860b-79a4eaa0b134)
 and cloud computing. I am also working on relevant certifications on them. 
 I attended the following educational institutions 
-I studied Masters n Software Technologies at The Robert Gordon University, United kingdom and graduated with a distinction, 
+
+
+I studied Masters in Software Technologies at The Robert Gordon University, United kingdom and graduated with a distinction, 
 Post graduate diploma in Data analysis/ Artificial intelligence at the Saskatchewan Polytechnic, Regina, Canada 
 
 
