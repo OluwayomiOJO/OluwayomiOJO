@@ -26,7 +26,7 @@ Post graduate diploma in Data analysis/ Artificial intelligence from the Saskatc
 
 ## Contact me
 
-[![image](https://github.com/user-attachments/assets/1d2b46c9-6a3e-4931-822c-f76db8c3554c)](oluwayomioojo@gmail.com)
+![![image](https://github.com/user-attachments/assets/1d2b46c9-6a3e-4931-822c-f76db8c3554c)](oluwayomioojo@gmail.com)
 
-[![image](https://github.com/user-attachments/assets/eacaf83f-6122-4ef8-b308-3cfcac55e826)](https://www.linkedin.com/in/oluwayomi-ojo-28805912/)
+![![image](https://github.com/user-attachments/assets/eacaf83f-6122-4ef8-b308-3cfcac55e826)](https://www.linkedin.com/in/oluwayomi-ojo-28805912/)
 
